@@ -158,5 +158,6 @@
     "robots:follow": false,
     "sitemap:enabled": false,
     "llms-txt:enabled": false
-  }
+  },
+  "description": "Der Gegenstand ist die Dokumentation der Anwendung AuraBright."
 }
