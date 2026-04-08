@@ -1,5 +1,5 @@
 {
-  "name": "Starter Kit",
+  "name": "AuraWrite",
   "colors": {
     "light": {
       "brand": "#F97316"
@@ -150,5 +150,6 @@
         ]
       }
     ]
-  }
+  },
+  "title": "AuraWrite"
 }
